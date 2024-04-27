@@ -1,5 +1,5 @@
 # EV's Market Segmentation
-This project aims to perform data segmentation using customer data of Vehicle Sell Data. By applying segmentation techniques, we can identify distinct customer segments based on various characteristics such as purchasing behavior, preferences, demographics, and more. The resulting segments can then be used to tailor marketing strategies, optimize product offerings, and enhance customer experiences.
+This project aims to perform data segmentation using customer data of Vehicle Sold Data. By applying segmentation techniques, we can identify distinct customer segments based on various characteristics such as purchasing behavior, preferences, demographics, and more. The resulting segments can then be used to tailor marketing strategies, optimize product offerings, and enhance customer experiences.
 
 ## Data Preprocessing
 The preprocessing of the dataset is a crucial step to ensure data quality and prepare it for analysis. In this project, the following steps were undertaken for data preprocessing:
