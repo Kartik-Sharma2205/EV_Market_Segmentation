@@ -25,7 +25,7 @@ The preprocessing of the dataset is a crucial step to ensure data quality and pr
 Used libraries - skikit-learn, matplotlib, pandas, numpy and seaborn. 
 
 ## Dataset
-[Click here to download Dataset](https://drive.google.com/file/d/1OexH-CVBBXAdXwuEdeYfguKliMWqNOyl/view?usp=sharing) Contains data of 8128 customers and contains 13 variables.
+[Click here to download Dataset](https://drive.google.com/file/d/1bTryl8IpjWmJQ3RqujcnmfmvVKuGJnb9/view?usp=sharing) Contains data of 8128 customers and contains 13 variables.
 
 ## Feature Engineering
 In this phase, Principal Component Analysis (PCA) was employed to effectively reduce dimensionality and extract essential features from the dataset. By condensing the original features into a smaller set of principal components, PCA facilitated a more efficient representation of the data while retaining its key characteristics.
